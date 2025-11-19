@@ -18,11 +18,6 @@
 ✅ **Cybersecurity:** Ethical Hacking, Cryptography, Penetration Testing  
 ✅ **DevOps & Tools:** Git, CI/CD, Linux, Bash, Terraform  
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AiFi-Vision&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 🚀 Projects  
 🔹 **CryptoTradingBot** – AI-powered trading bot on crypto exchange sites.  
 🔹 **Drone Tracking App** – Tracking app for drone.  
