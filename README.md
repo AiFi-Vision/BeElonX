@@ -21,6 +21,7 @@
 ## 🚀 Projects  
 🔹 **CryptoTradingBot** – AI-powered trading bot on crypto exchange sites.  
 🔹 **Drone Tracking App** – Tracking app for drone.  
+🔹 **SimplySend Mobile App** – Mobile app to use simply.  
 
 ## 🎯 Let's Connect!  
 💬 **Ask me about:** AI, Cybersecurity, Robotics, Distributed Computing  
