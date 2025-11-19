@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Hi, I'm BeElonX!</h1>
+<h1 align="center">🚀 Hi, I'm AiFi!</h1>
 <h3 align="center">Software Engineer | AI & ML | Cybersecurity | Robotics</h3>
 
 <p align="center">
-  <img src="https://github.com/BeElonX/your-username/raw/main/banner.gif" alt="Banner" />
+  <img src="https://github.com/AiFi-Vision/your-username/raw/main/banner.gif" alt="Banner" />
 </p>
 
 ## 🌟 About Me  
@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeElonX&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AiFi-Vision&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 🚀 Projects  
@@ -29,7 +29,7 @@
 
 ## 🎯 Let's Connect!  
 💬 **Ask me about:** AI, Cybersecurity, Robotics, Distributed Computing  
-🌎 **Portfolio:** https://github.com/BeElonX
+🌎 **Portfolio:** https://github.com/AiFi-Vision
 
 ---
 
